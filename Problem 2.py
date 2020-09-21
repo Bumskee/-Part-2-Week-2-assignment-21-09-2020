@@ -13,4 +13,5 @@ def findAverage(student1, student2, student3):
 #Assigning the value to the average variable
 average = findAverage(student1, student2, student3)
 
+#prints the value of average
 print(average)

@@ -6,6 +6,8 @@ def degToRad(angle, pi = 3.14):
     degrees = angle
     radians = degrees * pi / 180
 
-degToRad(150) #calls the function to assign those variables
+#calls the function to assign those variables
+degToRad(150)
 
+#prints the values of degrees and radians
 print(degrees, radians) 
